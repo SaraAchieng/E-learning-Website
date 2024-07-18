@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Accounting",
+      "duration": "4",
+      "description": "description",
+      "image_url": "https://i.pinimg.com/564x/35/0c/8e/350c8ef2a812804610896555b3d3e502.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Software Engineering",
+      "duration": "5",
+      "description": "Branch of computer science that deals with the design, development, testing, and maintenance of software applications",
+      "image_url": "https://i.pinimg.com/564x/34/46/0c/34460cf68f856b44fadd05e5855e9c0d.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Robotics",
+      "duration": 3,
+      "description": "A branch of engineering and computer science that involves the conception, design, manufacture and operation of robots",
+      "image_url": "https://i.pinimg.com/564x/ec/b8/a2/ecb8a2f77f90d7c58e9ab1d150909258.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Business Intelligence",
+      "duration": "4",
+      "description": "Technical infrastructure that collects, stores, and analyzes company data. ",
+      "image_url": "https://i.pinimg.com/564x/42/98/76/4298760cb3caa524c7553f00b5e74b48.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Marketing",
+      "duration": "2",
+      "description": "Business activities associated with communicating, advertising, delivering, or selling products or services to customers",
+      "image_url": "https://i.pinimg.com/564x/2a/94/e3/2a94e33f7afe6600fe9c97eda3a386b3.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Financial Engineering",
+      "duration": "2",
+      "description": "Interdisciplinary branch of the investment industry that makes use of applied mathematics, statistics, computer science, financial theory, and economics to conduct quantitative analysis on the financial markets",
+      "image_url": "https://i.pinimg.com/564x/ef/fa/a2/effaa2f2ffd6d80e3042aa47e305d77e.jpg"
+    }
+  ]
+}
